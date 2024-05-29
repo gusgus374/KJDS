@@ -14,4 +14,4 @@ if st.button("Click for Taylor"):
     st.image(image="./resources/taylor.png",width=600)
 
 if st.button("YouTube"):
-    st.page_link(link="https://www.youtube.com/",width=200)
+    st.page_link(page="https://www.youtube.com/",width=200)
