@@ -8,10 +8,6 @@ import altair as alt
 #import folium
 #from folium.plugins import HeatMap
 #import seaborn as sns
-st.title("SLAY!")
 
-if st.button("Click for Taylor"):
-    st.image(image="./resources/taylor.png",width=600)
-
-if st.button("YouTube"):
-    st.page_link(link="https://www.youtube.com/",width=200)
+st.title("erm what the sigma")
+st.write("ben is so mean stop nbeing mean you  are so unsigma you toilet  rizz Taylor  swift is bad")
